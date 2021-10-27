@@ -1,0 +1,2 @@
+# 04,09,14,19,24,29,34,39,44,49,54,59 * * * * nvm use 12.16.3 && node index.js  > /dev/null 2>&1
+04,09,14,19,24,29,34,39,44,49,54,59 * * * * cd /Users/hiroto.naya/repos/temp/google_cal_alert/ && /Users/hiroto.naya/.nvm/versions/node/v12.16.3/bin/node index.js  > /tmp/aaa
